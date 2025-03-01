@@ -1,5 +1,0 @@
-#!/Users/ignacioquintero/Projects/machine-learning-projects/heart-disease-classification/env/bin/python3.13
-
-import pydoc
-if __name__ == '__main__':
-    pydoc.cli()
